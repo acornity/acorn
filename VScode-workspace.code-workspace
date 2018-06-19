@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "www"
+		},
+		{
+			"path": "hydra"
+		},
+		{
+			"path": "frisco"
+		},
+		{
+			"path": "slope"
+		}
+	],
+	"settings": {}
+}
