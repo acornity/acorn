@@ -1,3 +1,6 @@
 [submodule "elate/themes/hugo-elate-theme"]
 	path = elate/themes/hugo-elate-theme
 	url = https://github.com/saey55/hugo-elate-theme.git
+[submodule "hugo/hugo-elate-theme"]
+	path = hugo/hugo-elate-theme
+	url = https://github.com/saey55/hugo-elate-theme.git
